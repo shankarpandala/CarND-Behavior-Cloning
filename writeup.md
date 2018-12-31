@@ -66,7 +66,7 @@ Here is the sample training data that show how the left, center and right camera
 
 | Left Camera Image  | Center Camera Image | Right Camera Image |
 | ------------- | ------------- | ------------- |
-| ![Center Image](data/IMG/left_2016_12_01_13_30_48_287.jpg) | ![Center Image](data/IMG/center_2016_12_01_13_30_48_287.jpg)  | ![Center Image](data/IMG/right_2016_12_01_13_30_48_287.jpg)  |
+| ![Center Image](examples/left_2016_12_01_13_30_48_287.jpg) | ![Center Image](examples/center_2016_12_01_13_30_48_287.jpg)  | ![Center Image](examples/right_2016_12_01_13_30_48_287.jpg)  |
 
 
 There are a total of 8036 data points out of which 80% is used for training and 20% is used for validaation
